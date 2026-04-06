@@ -95,3 +95,13 @@ Key steps performed:
 ---
 
 ## 📁 Repository Structure
+
+---
+
+## ✅ License  
+MIT License — free to use and modify.
+
+---
+
+## ✨ Author  
+**Jesús Miguel Peña**  
