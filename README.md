@@ -35,7 +35,9 @@ data cleaning, feature engineering, financial metrics, and visual insights.
 
 ## 🗂 Dataset  
 ➡️ data/events.csv
+
 ➡️ data/products.csv
+
 ➡️ data/countries.csv
 
 ---
