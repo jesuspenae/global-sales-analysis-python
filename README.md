@@ -23,14 +23,20 @@ data cleaning, feature engineering, financial metrics, and visual insights.
 - **Europe** generates ~89% of total profit.  
 - **Online** and **Offline** channels perform similarly.  
 - **Shipping time** does *not* correlate with profitability.  
-- Revenue and profit peak in **2012**, followed by a decline.  
-- Orders are evenly distributed across the week.
+- Revenue and profit peak in **2012**, then decline.  
+- Orders are evenly distributed across weekdays.
 
 ---
 
 ## 📘 Notebook  
-Full analysis:  
-👉 `notebook/Global_Sales_Analysis.ipynb`
+➡️ [`notebook/Global_Sales_Analysis.ipynb`](notebook/Global_Sales_Analysis.ipynb)
+
+---
+
+## 🗂 Dataset  
+➡️ [`data/events.csv`](data/events.csv)  
+➡️ [`data/products.csv`](data/products.csv)  
+➡️ [`data/countries.csv`](data/countries.csv)
 
 ---
 
@@ -39,9 +45,4 @@ Python · Pandas · NumPy · Matplotlib · Seaborn · Jupyter Notebook
 
 ---
 
-## 📁 Structure
-
----
-
-## ✨ Author  
-**Jesús Miguel Peña**  
+## Jesús Peña
