@@ -29,20 +29,16 @@ data cleaning, feature engineering, financial metrics, and visual insights.
 ---
 
 ## 📘 Notebook  
-➡️ [`notebook/Global_Sales_Analysis.ipynb`](notebook/Global_Sales_Analysis.ipynb)
+➡️ Global_Sales_Analysis.ipynb
 
 ---
 
 ## 🗂 Dataset  
-➡️ [`data/events.csv`](data/events.csv)  
-➡️ [`data/products.csv`](data/products.csv)  
-➡️ [`data/countries.csv`](data/countries.csv)
+➡️ data/events.csv
+➡️ data/products.csv
+➡️ data/countries.csv
 
 ---
 
 ## 🛠️ Tools  
 Python · Pandas · NumPy · Matplotlib · Seaborn · Jupyter Notebook
-
----
-
-## Jesús Peña
