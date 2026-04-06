@@ -1,5 +1,4 @@
 # 📊 Global Sales Analysis (2010–2017)
-### Python · Pandas · Matplotlib · Seaborn · Google Colab
 
 An exploratory data analysis project focused on understanding global sales 
 performance across product categories, regions, and sales channels. Includes 
@@ -39,8 +38,8 @@ data cleaning, feature engineering, financial metrics, and visual insights.
 
 ## 🗂 Dataset
 
-➡️ data/events.csv
-➡️ data/products.csv
+➡️ data/events.csv  
+➡️ data/products.csv  
 ➡️ data/countries.csv
 
 > 🗒️ **Note:** This notebook runs on Google Colab. Upload the CSV files to your Google Drive and update the file paths in the first code cell accordingly.
