@@ -29,7 +29,7 @@ Exploratory data analysis project focused on global sales performance across pro
 
 ## 📘 Notebook
 
-➡️ `notebook/Global_Sales_Analysis_Python_Pandas.ipynb`
+➡️ `notebook/Global Sales Analysis — Python.ipynb`
 
 ---
 
